@@ -27,9 +27,13 @@ oiboysec@root# sudo apt-get update
 oiboysec@root# sudo apt-get upgrade
 
 oiboysec@root# sudo apt-get install python
+
 oiboysec@root# sudo apt-get install git
+
 oiboysec@root# sudo git clone https://github.com/pashayogi/Dorker
+
 oiboysec@root# sudo cd Dorker
+
 oiboysec@root# sudo python Dorker.py
 
 ## &#x270d; Blog & Writing
