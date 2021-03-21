@@ -22,7 +22,7 @@ Perkenalkan Nama Saya Pasha Yogi Pranata saya berasal dari Indonesia Kalimantan 
 
 ## Cara Pakai
 
-oiboysec@root# sudo apt-get update
+!oiboysec@root# sudo apt-get update
 oiboysec@root# sudo apt-get upgrade
 oiboysec@root# sudo apt-get install python
 oiboysec@root# sudo apt-get install git
